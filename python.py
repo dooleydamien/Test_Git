@@ -1,7 +1,7 @@
 print("Hello World!")
-test = 2
+test = 0
 
-if test == 2:
+if test == 0:
     print("Test Successful")
 else:
     print("Test Failed!")
